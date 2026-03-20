@@ -1,4 +1,4 @@
-<h1>WeatherApp</h1>
+<h1>Weather App</h1>
 
 <p>Simple Weather app written in HTML, CSS, and JavaScript using the APIs for fetching weather and geolocation information.</p>
 
@@ -25,12 +25,3 @@
 - Just Type the city name you want to know the weather of, and then click on the search button.
 
 - After that it will automatically display Weather, Humidity, Wind Speed of the city.
-
-
-<h3> ScreenShots </h3>  
-
-<img src = "Weather-App.jpg" alt="Sample Image">
-
-## Happy Coding!
-
-<strong>Developed by: <a href="https://github.com/gollaganesh214">Golla Ganesh</a>
