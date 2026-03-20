@@ -33,4 +33,4 @@
 
 ## Happy Coding!
 
-<strong>Developed by: <a href="https://github.com/BoddepallyVenkatesh06">Venky Kumar</a>
+<strong>Developed by: <a href="https://github.com/gollaganesh214">Golla Ganesh</a>
